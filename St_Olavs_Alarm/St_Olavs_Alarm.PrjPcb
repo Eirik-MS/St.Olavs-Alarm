@@ -102,7 +102,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LEMXXVJQ
 
 [Document4]
-DocumentPath=St_Olavs_Alarm_2.SchDoc
+DocumentPath=St_Olavs_Alarm.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,7 +175,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjectEngineer
-Value=
+Value=Eirik Silnes & Jenny Liahjell
 
 [Configuration1]
 Name=Sources
